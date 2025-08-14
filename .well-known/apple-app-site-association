@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VRM6J3WR96.com.kb.TestAppQR3",
+        "paths": [ "/landingpage/*", "/clip/*" ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [ "VRM6J3WR96.com.kb.TestAppQR3.Clip" ]
+  }
+}
